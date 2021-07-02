@@ -11,7 +11,7 @@ var descriptionHtml = $('.description');
 function timeCheck() {
     timeBlockHtml.each(function() {
         var timeId = parseInt(($(this)).attr('id'));
-        var hour = 12 //moment().format('H');
+        var hour = moment().format('H');
         var textarea = $(this).children(descriptionHtml);
 
         if (timeId == hour) {
