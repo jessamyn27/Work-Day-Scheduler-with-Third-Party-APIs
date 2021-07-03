@@ -44,8 +44,8 @@
 - change color or size of text for past/present/future for better UI clarity
 - padding and display clean up esp on mobile
 
-## Wireframes OR SudoCode of Acceptance Criteria - n/a
-
+## Wireframes OR SudoCode of Acceptance Criteria
+N/A
 
 ## Acceptance Criteria
 
@@ -127,5 +127,5 @@ You are required to submit BOTH of the following for review:
 [MIT License](https://opensource.org/licenses/MIT)
 
 
-**[Back Up To Top](# Work-Day-Scheduler-with-Third-Party-APIs)**
+**[Back Up To Top](#Work-Day-Scheduler-with-Third-Party-APIs)**
 
