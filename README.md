@@ -1,6 +1,6 @@
-#Work-Day-Scheduler-with-Third-Party-APIs
-##Created a simple calendar application that allows a user to save events for each hour of the day by modifying starter code
-##This app will run in the browser and feature dynamically updated HTML and CSS powered by jQuery and Moment.js
+# Work-Day-Scheduler-with-Third-Party-APIs
+## Created a simple calendar application that allows a user to save events for each hour of the day by modifying starter code
+## This app will run in the browser and feature dynamically updated HTML and CSS powered by jQuery and Moment.js
 
 ## Table of Contents
 
@@ -127,5 +127,5 @@ You are required to submit BOTH of the following for review:
 [MIT License](https://opensource.org/licenses/MIT)
 
 
-**[Back Up To Top](#Work-Day-Scheduler-with-Third-Party-APIs)**
+**[Back Up To Top](# Work-Day-Scheduler-with-Third-Party-APIs)**
 
