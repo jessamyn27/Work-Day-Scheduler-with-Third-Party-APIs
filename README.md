@@ -9,7 +9,7 @@
 **[Wireframes](#Wireframes)**<br>
 **[Bugs and Known Issues](#Bugs-and-Known-Issues)**<br>
 **[Next Steps to Continue](#Next-Steps-to-Continue)**<br>
-**[Wireframes OR SudoCode of Acceptance Criteria](Wireframes-OR-SudoCode-of-Acceptance-Criteria)**<br>
+**[Wireframes OR SudoCode of Acceptance Criteria](#Wireframes-OR-SudoCode-of-Acceptance-Criteria)**<br>
 **[Acceptance Criteria](#Acceptance-Criteria)**<br>
 **[Bonus](#Bonus)**<br>
 **[Deliverables](#Deliverables)**<br>
